@@ -1,0 +1,11 @@
+model,dataset,test_accuracy,test_accuracy_percent,best_epoch,evaluation_views
+minirocketbased,fashionmnist,0.8832000000,88.3200,21,1
+minirocketbased,svhn,0.8625000000,86.2500,174,1
+minirocketbased,cifar10,0.7093000000,70.9300,164,1
+minirocketbased,eurosat,0.9264810000,92.6481,50,4
+minirocketbased,stl10,0.7208750000,72.0875,not_recorded,2
+visualprimitives,fashionmnist,0.8826000000,88.2600,27,1
+visualprimitives,svhn,0.8024000000,80.2400,13,1
+visualprimitives,cifar10,0.7435000000,74.3500,172,1
+visualprimitives,eurosat,0.9346296191,93.4630,40,4
+visualprimitives,stl10,0.6893749833,68.9375,35,2
